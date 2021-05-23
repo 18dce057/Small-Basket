@@ -1,4 +1,4 @@
-# Small-Basket
+# Small-Basket Android Application
 
 Small Basket is an Android Application which is use to purchase some grocery item where shopkeeper upload the available items and user can obtain it.
 
