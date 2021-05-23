@@ -6,5 +6,5 @@ Customers can create their Accounts and with that credentials they can log in an
 
 Admin also have an account and with specific credential he can log in and perform specific task like he can add new product, modify product and verify new orders.
 
-Customer can search product by Product name , Customer can recover their password by answering some security questions and Customer can see cart (whatever) they have ordered..
+Customer can search product by Product name , Customer can recover their password by answering some security questions and Customer can see cart (whatever) they have ordered.
 
